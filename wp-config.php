@@ -88,3 +88,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+// Site URLS (override DB settings)
+define('WP_HOME','http://localhost/ymyd/');     //<-- NO TRAILING /
+define('WP_SITEURL','http://localhost/ymyd/');  //<-- NO TRAILING /
