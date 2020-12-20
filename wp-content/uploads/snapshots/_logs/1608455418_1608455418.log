@@ -1,0 +1,264 @@
+2020-12-20 09:17:16: restore: init
+2020-12-20 09:17:16: restore: table: wp_actionscheduler_actions (1/1)
+2020-12-20 09:17:23: restore: table: wp_actionscheduler_actions converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:24: restore: table: wp_actionscheduler_claims (1/1)
+2020-12-20 09:17:25: restore: table: wp_actionscheduler_claims converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:25: restore: table: wp_actionscheduler_groups (1/1)
+2020-12-20 09:17:26: restore: table: wp_actionscheduler_groups converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:26: restore: table: wp_actionscheduler_logs (1/1)
+2020-12-20 09:17:47: restore: table: wp_actionscheduler_logs converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:47: restore: table: wp_commentmeta (1/1)
+2020-12-20 09:17:51: restore: table: wp_commentmeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:52: restore: table: wp_comments (1/1)
+2020-12-20 09:17:56: restore: table: wp_comments converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:56: restore: table: wp_links (1/1)
+2020-12-20 09:17:57: restore: table: wp_links converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:17:57: restore: table: wp_options (1/2)
+2020-12-20 09:19:33: restore: table: wp_options (2/2)
+2020-12-20 09:20:08: restore: table: wp_options converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:20:10: restore: table: wp_postmeta (1/6)
+2020-12-20 09:21:27: restore: table: wp_postmeta (2/6)
+2020-12-20 09:22:43: restore: table: wp_postmeta (3/6)
+2020-12-20 09:23:47: restore: table: wp_postmeta (4/6)
+2020-12-20 09:24:42: restore: table: wp_postmeta (5/6)
+2020-12-20 09:25:52: restore: table: wp_postmeta (6/6)
+2020-12-20 09:26:59: restore: table: wp_postmeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:27:01: restore: table: wp_posts (1/2)
+2020-12-20 09:28:26: restore: table: wp_posts (2/2)
+2020-12-20 09:28:38: restore: table: wp_posts converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:28:59: restore: table: wp_term_relationships (1/1)
+2020-12-20 09:29:28: restore: table: wp_term_relationships converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:29:28: restore: table: wp_term_taxonomy (1/1)
+2020-12-20 09:29:33: restore: table: wp_term_taxonomy converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:29:33: restore: table: wp_termmeta (1/1)
+2020-12-20 09:29:36: restore: table: wp_termmeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:29:36: restore: table: wp_terms (1/1)
+2020-12-20 09:29:42: restore: table: wp_terms converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:29:42: restore: table: wp_usermeta (1/1)
+2020-12-20 09:29:54: restore: table: wp_usermeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:29:55: restore: table: wp_users (1/1)
+2020-12-20 09:30:02: restore: table: wp_users converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:02: restore: table: wp_wc_category_lookup (1/1)
+2020-12-20 09:30:05: restore: table: wp_wc_category_lookup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:05: restore: table: wp_wc_product_meta_lookup (1/1)
+2020-12-20 09:30:07: restore: table: wp_wc_product_meta_lookup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:07: restore: table: wp_wc_reserved_stock (1/1)
+2020-12-20 09:30:08: restore: table: wp_wc_reserved_stock converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:08: restore: table: wp_wc_tax_rate_classes (1/1)
+2020-12-20 09:30:10: restore: table: wp_wc_tax_rate_classes converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:10: restore: table: wp_woocommerce_order_itemmeta (1/1)
+2020-12-20 09:30:20: restore: table: wp_woocommerce_order_itemmeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:20: restore: table: wp_woocommerce_payment_tokenmeta (1/1)
+2020-12-20 09:30:21: restore: table: wp_woocommerce_payment_tokenmeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:21: restore: table: wp_berocket_termmeta (1/1)
+2020-12-20 09:30:22: restore: table: wp_berocket_termmeta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:22: restore: table: wp_finaltiles_gallery (1/1)
+2020-12-20 09:30:23: restore: table: wp_finaltiles_gallery converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:23: restore: table: wp_finaltiles_gallery_images (1/1)
+2020-12-20 09:30:25: restore: table: wp_finaltiles_gallery_images converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:25: restore: table: wp_gamipress_logs (1/1)
+2020-12-20 09:30:27: restore: table: wp_gamipress_logs converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:27: restore: table: wp_gamipress_logs_meta (1/1)
+2020-12-20 09:30:28: restore: table: wp_gamipress_logs_meta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:29: restore: table: wp_gamipress_user_earnings (1/1)
+2020-12-20 09:30:30: restore: table: wp_gamipress_user_earnings converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:31: restore: table: wp_gamipress_user_earnings_meta (1/1)
+2020-12-20 09:30:32: restore: table: wp_gamipress_user_earnings_meta converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:32: restore: table: wp_image_hover_ultimate_list (1/1)
+2020-12-20 09:30:33: restore: table: wp_image_hover_ultimate_list converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:34: restore: table: wp_image_hover_ultimate_style (1/1)
+2020-12-20 09:30:36: restore: table: wp_image_hover_ultimate_style converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:36: restore: table: wp_mlw_qm_audit_trail (1/1)
+2020-12-20 09:30:37: restore: table: wp_mlw_qm_audit_trail converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:37: restore: table: wp_mlw_questions (1/1)
+2020-12-20 09:30:43: restore: table: wp_mlw_questions converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:43: restore: table: wp_mlw_quizzes (1/1)
+2020-12-20 09:30:45: restore: table: wp_mlw_quizzes converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:45: restore: table: wp_mlw_results (1/1)
+2020-12-20 09:30:47: restore: table: wp_mlw_results converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:47: restore: table: wp_mycred_log (1/1)
+2020-12-20 09:30:49: restore: table: wp_mycred_log converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:49: restore: table: wp_ngg_album (1/1)
+2020-12-20 09:30:51: restore: table: wp_ngg_album converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:52: restore: table: wp_ngg_gallery (1/1)
+2020-12-20 09:30:55: restore: table: wp_ngg_gallery converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:30:56: restore: table: wp_ngg_pictures (1/1)
+2020-12-20 09:31:01: restore: table: wp_ngg_pictures converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:31:01: restore: table: wp_origincode_photo_gallery_wp_gallerys (1/1)
+2020-12-20 09:31:03: restore: table: wp_origincode_photo_gallery_wp_gallerys converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:31:03: restore: table: wp_origincode_photo_gallery_wp_images (1/1)
+2020-12-20 09:31:05: restore: table: wp_origincode_photo_gallery_wp_images converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:31:05: restore: table: wp_origincode_photo_gallery_wp_like_dislike (1/1)
+2020-12-20 09:31:07: restore: table: wp_origincode_photo_gallery_wp_like_dislike converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:31:07: restore: table: wp_oxi_div_import (1/1)
+2020-12-20 09:31:15: restore: table: wp_oxi_div_import converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:31:15: restore: table: wp_simply_static_pages (1/3)
+2020-12-20 09:32:25: restore: table: wp_simply_static_pages (2/3)
+2020-12-20 09:33:28: restore: table: wp_simply_static_pages (3/3)
+2020-12-20 09:34:24: restore: table: wp_simply_static_pages converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:25: restore: table: wp_supsystic_tbl_columns (1/1)
+2020-12-20 09:34:25: restore: table: wp_supsystic_tbl_columns converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:26: restore: table: wp_supsystic_tbl_diagrams (1/1)
+2020-12-20 09:34:27: restore: table: wp_supsystic_tbl_diagrams converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:27: restore: table: wp_supsystic_tbl_rows (1/1)
+2020-12-20 09:34:28: restore: table: wp_supsystic_tbl_rows converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:28: restore: table: wp_supsystic_tbl_tables (1/1)
+2020-12-20 09:34:29: restore: table: wp_supsystic_tbl_tables converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:30: restore: table: wp_ux_gallery_album_has_gallery (1/1)
+2020-12-20 09:34:31: restore: table: wp_ux_gallery_album_has_gallery converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:31: restore: table: wp_ux_gallery_albums (1/1)
+2020-12-20 09:34:33: restore: table: wp_ux_gallery_albums converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:33: restore: table: wp_ux_gallery_categories (1/1)
+2020-12-20 09:34:34: restore: table: wp_ux_gallery_categories converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:35: restore: table: wp_ux_gallery_gallerys (1/1)
+2020-12-20 09:34:35: restore: table: wp_ux_gallery_gallerys converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:38: restore: table: wp_ux_gallery_images (1/1)
+2020-12-20 09:34:41: restore: table: wp_ux_gallery_images converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:41: restore: table: wp_ux_gallery_like_dislike (1/1)
+2020-12-20 09:34:42: restore: table: wp_ux_gallery_like_dislike converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:42: restore: table: wp_vi_wad_ali_orders_info (1/1)
+2020-12-20 09:34:43: restore: table: wp_vi_wad_ali_orders_info converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:44: restore: table: wp_vi_wad_error_product_images (1/1)
+2020-12-20 09:34:45: restore: table: wp_vi_wad_error_product_images converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:45: restore: table: wp_wc_admin_note_actions (1/1)
+2020-12-20 09:34:49: restore: table: wp_wc_admin_note_actions converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:49: restore: table: wp_wc_admin_notes (1/1)
+2020-12-20 09:34:52: restore: table: wp_wc_admin_notes converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:52: restore: table: wp_wc_customer_lookup (1/1)
+2020-12-20 09:34:53: restore: table: wp_wc_customer_lookup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:53: restore: table: wp_wc_download_log (1/1)
+2020-12-20 09:34:55: restore: table: wp_wc_download_log converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:55: restore: table: wp_wc_order_coupon_lookup (1/1)
+2020-12-20 09:34:56: restore: table: wp_wc_order_coupon_lookup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:34:56: restore: table: wp_wc_order_product_lookup (1/1)
+2020-12-20 09:35:00: restore: table: wp_wc_order_product_lookup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:00: restore: table: wp_wc_order_stats (1/1)
+2020-12-20 09:35:02: restore: table: wp_wc_order_stats converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:02: restore: table: wp_wc_order_tax_lookup (1/1)
+2020-12-20 09:35:03: restore: table: wp_wc_order_tax_lookup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:03: restore: table: wp_wc_webhooks (1/1)
+2020-12-20 09:35:05: restore: table: wp_wc_webhooks converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:05: restore: table: wp_woocommerce_api_keys (1/1)
+2020-12-20 09:35:06: restore: table: wp_woocommerce_api_keys converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:06: restore: table: wp_woocommerce_attribute_taxonomies (1/1)
+2020-12-20 09:35:08: restore: table: wp_woocommerce_attribute_taxonomies converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:08: restore: table: wp_woocommerce_downloadable_product_permissions (1/1)
+2020-12-20 09:35:09: restore: table: wp_woocommerce_downloadable_product_permissions converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:09: restore: table: wp_woocommerce_log (1/1)
+2020-12-20 09:35:11: restore: table: wp_woocommerce_log converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:11: restore: table: wp_woocommerce_order_items (1/1)
+2020-12-20 09:35:13: restore: table: wp_woocommerce_order_items converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:13: restore: table: wp_woocommerce_payment_tokens (1/1)
+2020-12-20 09:35:15: restore: table: wp_woocommerce_payment_tokens converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:15: restore: table: wp_woocommerce_sessions (1/1)
+2020-12-20 09:35:16: restore: table: wp_woocommerce_sessions converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:16: restore: table: wp_woocommerce_shipping_zone_locations (1/1)
+2020-12-20 09:35:18: restore: table: wp_woocommerce_shipping_zone_locations converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:18: restore: table: wp_woocommerce_shipping_zone_methods (1/1)
+2020-12-20 09:35:19: restore: table: wp_woocommerce_shipping_zone_methods converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:19: restore: table: wp_woocommerce_shipping_zones (1/1)
+2020-12-20 09:35:21: restore: table: wp_woocommerce_shipping_zones converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:21: restore: table: wp_woocommerce_tax_rate_locations (1/1)
+2020-12-20 09:35:23: restore: table: wp_woocommerce_tax_rate_locations converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:23: restore: table: wp_woocommerce_tax_rates (1/1)
+2020-12-20 09:35:24: restore: table: wp_woocommerce_tax_rates converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:24: restore: table: wp_wpfm_backup (1/1)
+2020-12-20 09:35:25: restore: table: wp_wpfm_backup converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:25: restore: table: _mig_wpmdb_alter_statements (1/1)
+2020-12-20 09:35:29: restore: table: _mig_wpmdb_alter_statements converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 09:35:29: restore: file-section: themes
+2020-12-20 09:35:31: restore: finish:
+2020-12-20 09:35:31: rename restored table: ALTER TABLE `_snap_rcv_wp_actionscheduler_actions` RENAME `wp_actionscheduler_actions`;
+2020-12-20 09:35:32: rename restored table: ALTER TABLE `_snap_rcv_wp_actionscheduler_claims` RENAME `wp_actionscheduler_claims`;
+2020-12-20 09:35:32: rename restored table: ALTER TABLE `_snap_rcv_wp_actionscheduler_groups` RENAME `wp_actionscheduler_groups`;
+2020-12-20 09:35:33: rename restored table: ALTER TABLE `_snap_rcv_wp_actionscheduler_logs` RENAME `wp_actionscheduler_logs`;
+2020-12-20 09:35:33: drop original table: DROP TABLE `wp_commentmeta`;
+2020-12-20 09:35:33: rename restored table: ALTER TABLE `_snap_rcv_wp_commentmeta` RENAME `wp_commentmeta`;
+2020-12-20 09:35:34: drop original table: DROP TABLE `wp_comments`;
+2020-12-20 09:35:34: rename restored table: ALTER TABLE `_snap_rcv_wp_comments` RENAME `wp_comments`;
+2020-12-20 09:35:34: drop original table: DROP TABLE `wp_links`;
+2020-12-20 09:35:34: rename restored table: ALTER TABLE `_snap_rcv_wp_links` RENAME `wp_links`;
+2020-12-20 09:35:35: drop original table: DROP TABLE `wp_options`;
+2020-12-20 09:35:35: rename restored table: ALTER TABLE `_snap_rcv_wp_options` RENAME `wp_options`;
+2020-12-20 09:35:35: drop original table: DROP TABLE `wp_postmeta`;
+2020-12-20 09:35:35: rename restored table: ALTER TABLE `_snap_rcv_wp_postmeta` RENAME `wp_postmeta`;
+2020-12-20 09:35:36: drop original table: DROP TABLE `wp_posts`;
+2020-12-20 09:35:36: rename restored table: ALTER TABLE `_snap_rcv_wp_posts` RENAME `wp_posts`;
+2020-12-20 09:35:36: drop original table: DROP TABLE `wp_term_relationships`;
+2020-12-20 09:35:36: rename restored table: ALTER TABLE `_snap_rcv_wp_term_relationships` RENAME `wp_term_relationships`;
+2020-12-20 09:35:37: drop original table: DROP TABLE `wp_term_taxonomy`;
+2020-12-20 09:35:37: rename restored table: ALTER TABLE `_snap_rcv_wp_term_taxonomy` RENAME `wp_term_taxonomy`;
+2020-12-20 09:35:37: drop original table: DROP TABLE `wp_termmeta`;
+2020-12-20 09:35:37: rename restored table: ALTER TABLE `_snap_rcv_wp_termmeta` RENAME `wp_termmeta`;
+2020-12-20 09:35:38: drop original table: DROP TABLE `wp_terms`;
+2020-12-20 09:35:38: rename restored table: ALTER TABLE `_snap_rcv_wp_terms` RENAME `wp_terms`;
+2020-12-20 09:35:38: drop original table: DROP TABLE `wp_usermeta`;
+2020-12-20 09:35:38: rename restored table: ALTER TABLE `_snap_rcv_wp_usermeta` RENAME `wp_usermeta`;
+2020-12-20 09:35:38: drop original table: DROP TABLE `wp_users`;
+2020-12-20 09:35:38: rename restored table: ALTER TABLE `_snap_rcv_wp_users` RENAME `wp_users`;
+2020-12-20 09:35:39: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_category_lookup` RENAME `wp_wc_category_lookup`;
+2020-12-20 09:35:39: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_product_meta_lookup` RENAME `wp_wc_product_meta_lookup`;
+2020-12-20 09:35:39: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_reserved_stock` RENAME `wp_wc_reserved_stock`;
+2020-12-20 09:35:40: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_tax_rate_classes` RENAME `wp_wc_tax_rate_classes`;
+2020-12-20 09:35:41: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_order_itemmeta` RENAME `wp_woocommerce_order_itemmeta`;
+2020-12-20 09:35:41: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_payment_tokenmeta` RENAME `wp_woocommerce_payment_tokenmeta`;
+2020-12-20 09:35:41: rename restored table: ALTER TABLE `_snap_rcv_wp_berocket_termmeta` RENAME `wp_berocket_termmeta`;
+2020-12-20 09:35:42: rename restored table: ALTER TABLE `_snap_rcv_wp_finaltiles_gallery` RENAME `wp_finaltiles_gallery`;
+2020-12-20 09:35:42: rename restored table: ALTER TABLE `_snap_rcv_wp_finaltiles_gallery_images` RENAME `wp_finaltiles_gallery_images`;
+2020-12-20 09:35:42: rename restored table: ALTER TABLE `_snap_rcv_wp_gamipress_logs` RENAME `wp_gamipress_logs`;
+2020-12-20 09:35:42: rename restored table: ALTER TABLE `_snap_rcv_wp_gamipress_logs_meta` RENAME `wp_gamipress_logs_meta`;
+2020-12-20 09:35:43: rename restored table: ALTER TABLE `_snap_rcv_wp_gamipress_user_earnings` RENAME `wp_gamipress_user_earnings`;
+2020-12-20 09:35:43: rename restored table: ALTER TABLE `_snap_rcv_wp_gamipress_user_earnings_meta` RENAME `wp_gamipress_user_earnings_meta`;
+2020-12-20 09:35:44: rename restored table: ALTER TABLE `_snap_rcv_wp_image_hover_ultimate_list` RENAME `wp_image_hover_ultimate_list`;
+2020-12-20 09:35:44: rename restored table: ALTER TABLE `_snap_rcv_wp_image_hover_ultimate_style` RENAME `wp_image_hover_ultimate_style`;
+2020-12-20 09:35:44: rename restored table: ALTER TABLE `_snap_rcv_wp_mlw_qm_audit_trail` RENAME `wp_mlw_qm_audit_trail`;
+2020-12-20 09:35:45: rename restored table: ALTER TABLE `_snap_rcv_wp_mlw_questions` RENAME `wp_mlw_questions`;
+2020-12-20 09:35:45: rename restored table: ALTER TABLE `_snap_rcv_wp_mlw_quizzes` RENAME `wp_mlw_quizzes`;
+2020-12-20 09:35:45: rename restored table: ALTER TABLE `_snap_rcv_wp_mlw_results` RENAME `wp_mlw_results`;
+2020-12-20 09:35:46: rename restored table: ALTER TABLE `_snap_rcv_wp_mycred_log` RENAME `wp_mycred_log`;
+2020-12-20 09:35:46: rename restored table: ALTER TABLE `_snap_rcv_wp_ngg_album` RENAME `wp_ngg_album`;
+2020-12-20 09:35:46: rename restored table: ALTER TABLE `_snap_rcv_wp_ngg_gallery` RENAME `wp_ngg_gallery`;
+2020-12-20 09:35:47: rename restored table: ALTER TABLE `_snap_rcv_wp_ngg_pictures` RENAME `wp_ngg_pictures`;
+2020-12-20 09:35:47: rename restored table: ALTER TABLE `_snap_rcv_wp_origincode_photo_gallery_wp_gallerys` RENAME `wp_origincode_photo_gallery_wp_gallerys`;
+2020-12-20 09:35:47: rename restored table: ALTER TABLE `_snap_rcv_wp_origincode_photo_gallery_wp_images` RENAME `wp_origincode_photo_gallery_wp_images`;
+2020-12-20 09:35:47: rename restored table: ALTER TABLE `_snap_rcv_wp_origincode_photo_gallery_wp_like_dislike` RENAME `wp_origincode_photo_gallery_wp_like_dislike`;
+2020-12-20 09:35:48: rename restored table: ALTER TABLE `_snap_rcv_wp_oxi_div_import` RENAME `wp_oxi_div_import`;
+2020-12-20 09:35:48: drop original table: DROP TABLE `wp_simply_static_pages`;
+2020-12-20 09:35:48: rename restored table: ALTER TABLE `_snap_rcv_wp_simply_static_pages` RENAME `wp_simply_static_pages`;
+2020-12-20 09:35:48: rename restored table: ALTER TABLE `_snap_rcv_wp_supsystic_tbl_columns` RENAME `wp_supsystic_tbl_columns`;
+2020-12-20 09:35:48: rename restored table: ALTER TABLE `_snap_rcv_wp_supsystic_tbl_diagrams` RENAME `wp_supsystic_tbl_diagrams`;
+2020-12-20 09:35:48: rename restored table: ALTER TABLE `_snap_rcv_wp_supsystic_tbl_rows` RENAME `wp_supsystic_tbl_rows`;
+2020-12-20 09:35:49: rename restored table: ALTER TABLE `_snap_rcv_wp_supsystic_tbl_tables` RENAME `wp_supsystic_tbl_tables`;
+2020-12-20 09:35:49: rename restored table: ALTER TABLE `_snap_rcv_wp_ux_gallery_album_has_gallery` RENAME `wp_ux_gallery_album_has_gallery`;
+2020-12-20 09:35:49: rename restored table: ALTER TABLE `_snap_rcv_wp_ux_gallery_albums` RENAME `wp_ux_gallery_albums`;
+2020-12-20 09:35:49: rename restored table: ALTER TABLE `_snap_rcv_wp_ux_gallery_categories` RENAME `wp_ux_gallery_categories`;
+2020-12-20 09:35:50: rename restored table: ALTER TABLE `_snap_rcv_wp_ux_gallery_gallerys` RENAME `wp_ux_gallery_gallerys`;
+2020-12-20 09:35:50: rename restored table: ALTER TABLE `_snap_rcv_wp_ux_gallery_images` RENAME `wp_ux_gallery_images`;
+2020-12-20 09:35:50: rename restored table: ALTER TABLE `_snap_rcv_wp_ux_gallery_like_dislike` RENAME `wp_ux_gallery_like_dislike`;
+2020-12-20 09:35:50: rename restored table: ALTER TABLE `_snap_rcv_wp_vi_wad_ali_orders_info` RENAME `wp_vi_wad_ali_orders_info`;
+2020-12-20 09:35:50: rename restored table: ALTER TABLE `_snap_rcv_wp_vi_wad_error_product_images` RENAME `wp_vi_wad_error_product_images`;
+2020-12-20 09:35:51: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_admin_note_actions` RENAME `wp_wc_admin_note_actions`;
+2020-12-20 09:35:51: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_admin_notes` RENAME `wp_wc_admin_notes`;
+2020-12-20 09:35:51: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_customer_lookup` RENAME `wp_wc_customer_lookup`;
+2020-12-20 09:35:51: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_download_log` RENAME `wp_wc_download_log`;
+2020-12-20 09:35:51: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_order_coupon_lookup` RENAME `wp_wc_order_coupon_lookup`;
+2020-12-20 09:35:51: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_order_product_lookup` RENAME `wp_wc_order_product_lookup`;
+2020-12-20 09:35:52: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_order_stats` RENAME `wp_wc_order_stats`;
+2020-12-20 09:35:52: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_order_tax_lookup` RENAME `wp_wc_order_tax_lookup`;
+2020-12-20 09:35:52: rename restored table: ALTER TABLE `_snap_rcv_wp_wc_webhooks` RENAME `wp_wc_webhooks`;
+2020-12-20 09:35:52: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_api_keys` RENAME `wp_woocommerce_api_keys`;
+2020-12-20 09:35:52: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_attribute_taxonomies` RENAME `wp_woocommerce_attribute_taxonomies`;
+2020-12-20 09:35:53: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_downloadable_product_permissions` RENAME `wp_woocommerce_downloadable_product_permissions`;
+2020-12-20 09:35:53: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_log` RENAME `wp_woocommerce_log`;
+2020-12-20 09:35:53: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_order_items` RENAME `wp_woocommerce_order_items`;
+2020-12-20 09:35:53: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_payment_tokens` RENAME `wp_woocommerce_payment_tokens`;
+2020-12-20 09:35:53: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_sessions` RENAME `wp_woocommerce_sessions`;
+2020-12-20 09:35:54: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_shipping_zone_locations` RENAME `wp_woocommerce_shipping_zone_locations`;
+2020-12-20 09:35:54: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_shipping_zone_methods` RENAME `wp_woocommerce_shipping_zone_methods`;
+2020-12-20 09:35:54: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_shipping_zones` RENAME `wp_woocommerce_shipping_zones`;
+2020-12-20 09:35:54: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_tax_rate_locations` RENAME `wp_woocommerce_tax_rate_locations`;
+2020-12-20 09:35:54: rename restored table: ALTER TABLE `_snap_rcv_wp_woocommerce_tax_rates` RENAME `wp_woocommerce_tax_rates`;
+2020-12-20 09:35:55: drop original table: DROP TABLE `wp_wpfm_backup`;
+2020-12-20 09:35:55: rename restored table: ALTER TABLE `_snap_rcv_wp_wpfm_backup` RENAME `wp_wpfm_backup`;
+2020-12-20 09:35:55: rename restored table: ALTER TABLE `_mig_wpmdb_alter_statements` RENAME `_mig_wpmdb_alter_statements`;
+2020-12-20 09:35:56: restore: memory_limit: 256M
