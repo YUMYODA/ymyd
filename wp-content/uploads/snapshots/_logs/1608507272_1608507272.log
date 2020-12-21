@@ -1,0 +1,9 @@
+2020-12-20 23:39:09: restore: init
+2020-12-20 23:39:55: restore: table: wp_posts (1/2)
+2020-12-20 23:41:15: restore: table: wp_posts (2/2)
+2020-12-20 23:41:24: restore: table: wp_posts converting URLs from [://www.yumyoda.com] -> [://localhost/ymyd]
+2020-12-20 23:41:49: restore: file-section: plugins
+2020-12-20 23:42:38: restore: finish:
+2020-12-20 23:42:39: drop original table: DROP TABLE `wp_posts`;
+2020-12-20 23:42:43: rename restored table: ALTER TABLE `_snap_rcv_wp_posts` RENAME `wp_posts`;
+2020-12-20 23:42:52: restore: memory_limit: 256M

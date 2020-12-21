@@ -1,0 +1,18 @@
+2020-11-24T07:47:40+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/data-stores/class-wc-customer-data-store-session.php:96
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1218): WC_Customer->__construct(1, true)
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(209): WC_Checkout->get_value('billing_country')
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woo-stripe-payment/includes/wc-stripe-functions.php(1266): WC_Checkout->get_checkout_fields('billing')
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wo in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/data-stores/class-wc-customer-data-store-session.php on line 96
+
+2020-11-24T08:12:08+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/data-stores/class-wc-customer-data-store-session.php:96
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1218): WC_Customer->__construct(1, true)
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(209): WC_Checkout->get_value('billing_country')
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woo-stripe-payment/includes/wc-stripe-functions.php(1266): WC_Checkout->get_checkout_fields('billing')
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wo in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/includes/data-stores/class-wc-customer-data-store-session.php on line 96
+
